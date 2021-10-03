@@ -3,8 +3,9 @@
      <Sideleft/>
   <div class="w-100 border-l border-r -my-2">
     <div class="flex justify-between border-b px-4 py-2">
-      <div>
-        <h1 class="font-bold text-xl">Home</h1>
+      <div class="flex space-x-2 items-center">
+        <h1 class="font-bold text-xl tracking-tighter">Home</h1>
+        <h1 class="font-semibold text-sm tracking-tighter">- Twitter rebuild by Zitan Smail @zitansmail</h1>
       </div>
       <div class="flex items-center">
         <a href="#">
